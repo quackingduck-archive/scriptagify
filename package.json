@@ -1,0 +1,18 @@
+{
+  "name": "scriptagify",
+  "description": "Wrap a js bundle in a script tag",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "scriptagify": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quackingduck/scriptagify.git"
+  },
+  "author": {
+    "name": "Myles Byrne",
+    "email": "myles@myles.id.au"
+  },
+  "license": "MIT"
+}
